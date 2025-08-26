@@ -187,8 +187,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Alves Dev**
 - 🌐 Website: [alvesprotect.com.br](https://alvesprotect.com.br)
-- 📧 Email: [seu-email@exemplo.com]
-- 💼 LinkedIn: [Seu LinkedIn]
+- 📧 Email: [contato@alvesprotect.com.br]
 - 🐙 GitHub: [@railan098](https://github.com/railan098)
 
 ## 🙏 Agradecimentos
